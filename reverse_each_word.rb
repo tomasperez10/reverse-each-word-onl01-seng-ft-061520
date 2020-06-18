@@ -16,7 +16,7 @@ def reverse_each_word(sentence2)
   new_sentence = []
   
   original_sentence.collect do | letters |
-    
+    new_sentence << letters.reverse
   
   
 end

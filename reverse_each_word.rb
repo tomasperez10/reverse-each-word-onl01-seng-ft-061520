@@ -12,6 +12,6 @@ end
 
 def reverse_each_word(sentence2)
   
-  
+  sentence = 
   
 end

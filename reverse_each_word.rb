@@ -15,7 +15,8 @@ def reverse_each_word(sentence2)
   original_sentence = sentence2.split(" ")
   new_sentence = []
   
-  original_sentence.collect do | 
+  original_sentence.collect do | letters |
+    
   
   
 end

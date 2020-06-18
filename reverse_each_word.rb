@@ -1,5 +1,5 @@
 def reverse_each_word(sentence1)
   
-  sentence1.s
+  sentence1.
   
 end

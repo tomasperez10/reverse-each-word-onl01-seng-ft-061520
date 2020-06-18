@@ -13,6 +13,8 @@ end
 def reverse_each_word(sentence2)
   
   sentence = sentence2.split(" ")
-  new_sentence = 
+  new_sentence = []
+  
+  
   
 end

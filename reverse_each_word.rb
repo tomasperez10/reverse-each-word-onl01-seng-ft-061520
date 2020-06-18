@@ -6,6 +6,6 @@ def reverse_each_word(sentence1)
     new_sentence << letters.reverse
   end
   
-  return new_sentence
+  return new_sentence.join(" ")
   
 end

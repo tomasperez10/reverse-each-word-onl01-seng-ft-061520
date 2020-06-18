@@ -12,7 +12,7 @@ end
 
 def reverse_each_word(sentence2)
   
-  sentence = sentence2.split(" ")
+  original_sentence = sentence2.split(" ")
   new_sentence = []
   
   
